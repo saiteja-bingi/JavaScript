@@ -1,1 +1,2 @@
-a+b;
+
+console.log(arr)
